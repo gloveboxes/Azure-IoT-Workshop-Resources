@@ -10,7 +10,7 @@ Follow Microsoft IoT on Twitter **#msiot**
 
 ## Slides
 
-[Azure IoT Workshop Slides]()
+[Azure IoT Workshop Slides](https://1drv.ms/p/s!AoksQQquzfG6hbdvCAcxb3maoXofQA?e=53bf15)
 
 ---
 
